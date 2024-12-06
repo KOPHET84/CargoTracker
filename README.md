@@ -35,11 +35,11 @@
    git clone https://github.com/KOPHET84/CargoTracker.git
    cd CargoTracker
 2. Установите зависимости:
-
+     ```bash
     npm install 
 
 3. Запустите приложение:
-
+     ```bash
     npm start 
 
     Приложение будет доступно по адресу http://localhost:3000.

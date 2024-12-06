@@ -43,5 +43,5 @@
     npm start 
 
     Приложение будет доступно по адресу http://localhost:3000.
-
+![Иллюстрация к проекту](https://github.com/KOPHET84/CargoTracker/blob/main/src/screen1.png)
 

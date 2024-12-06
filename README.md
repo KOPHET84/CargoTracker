@@ -33,7 +33,7 @@
 1. Склонируйте репозиторий:
    ```bash
    git clone https://github.com/KOPHET84/CargoTracker.git
-   cd cargo-tracker
+   cd CargoTracker
 2. Установите зависимости:
 
     npm install 

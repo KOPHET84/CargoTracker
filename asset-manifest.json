@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CargoTracker/static/css/main.49faa5e3.css",
+    "main.js": "/CargoTracker/static/js/main.3e0d1cf6.js",
+    "index.html": "/CargoTracker/index.html",
+    "main.49faa5e3.css.map": "/CargoTracker/static/css/main.49faa5e3.css.map",
+    "main.3e0d1cf6.js.map": "/CargoTracker/static/js/main.3e0d1cf6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49faa5e3.css",
+    "static/js/main.3e0d1cf6.js"
+  ]
+}
